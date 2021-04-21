@@ -8,7 +8,7 @@ public class Banner extends Frame implements Runnable {
     private String str = "Cleo Empires";
 
     Banner(){
-        setLayout(null);
+    setLayout(null);
         setBackground(Color.CYAN);
         setForeground(Color.red);
 
